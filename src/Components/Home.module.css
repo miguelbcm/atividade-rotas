@@ -1,0 +1,29 @@
+section{
+    width: 100%;
+    height: 460px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+
+.mala_viagem{
+    width: 480px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.titulo_texto{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(1, 49, 151);
+    margin-top: 70px;
+    margin-left: 170px;
+}
+
+.lorem{
+    margin-left: 170px;
+    font-size: 23px;
+    margin-top: 30px;
+    color: rgb(8, 50, 143);
+}
